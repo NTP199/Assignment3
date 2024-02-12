@@ -11,5 +11,5 @@ app.get('/products', (req, res)=>{
 );
 
 app.listen(3000,()=>{
-    console.log('sever 3000');
+    console.log('Server 3000');
 });
